@@ -19,7 +19,6 @@ Esse projeto surgiu a partir da ideia de converter o [Coinpaprika BR Bot](https:
 * [Telegram](https://github.com/marcosnunesmbs/coinpaprika-br-bot/)
 * [Discord](https://github.com/SmookeyDev/coinpaprika-discord-bot)
 
-
 ## Créditos
 
 * [Ícaro Sant'Ana](https://t.me/SmookeyDev) - Versão de WhatsApp e Discord.
